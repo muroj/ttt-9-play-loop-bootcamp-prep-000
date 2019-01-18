@@ -40,5 +40,5 @@ def play(board)
   game_over = false
   
   until game_over
-end 
+  end 
 end
