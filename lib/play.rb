@@ -36,3 +36,9 @@ def turn(board)
 end
 
 # Define your play method below
+def play(board)
+  game_over = false
+  
+  until game_over
+end 
+end
